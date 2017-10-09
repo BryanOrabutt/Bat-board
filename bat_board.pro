@@ -1,4 +1,4 @@
-update=Fri 06 Oct 2017 03:26:08 PM CDT
+update=10/8/2017 11:17:15 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,5 +59,8 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=Libraries/psoc4
+LibName34=Libraries/serial-converters
+LibName35=Libraries/clock-gen
 [general]
 version=1
